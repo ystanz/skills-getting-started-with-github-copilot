@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
         const spotsLeft = details.max_participants - details.participants.length;
         const participants = details.participants.length
-          ? `<ul>${details.participants.map((email) =>
+          ? `<ul class="participants-list">${details.participants.map((email) =>
               `<li>
                 <span class="participant-email">${escapeHtml(email)}</span>
                 <button type="button"

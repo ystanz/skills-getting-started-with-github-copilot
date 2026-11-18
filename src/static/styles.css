@@ -93,6 +93,11 @@ section h3 {
   gap: 6px;
 }
 
+.participants-list {
+  margin: 0;
+  padding: 0;
+}
+
 .participants-section li {
   display: flex;
   align-items: center;
