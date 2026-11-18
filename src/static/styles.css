@@ -87,20 +87,18 @@ section h3 {
 }
 
 .participants-section ul {
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
+  list-style: disc;
+  padding-left: 20px;
 }
 
 .participants-list {
   margin: 0;
-  padding: 0;
 }
 
 .participants-section li {
   display: flex;
   align-items: center;
+  width: fit-content;
   max-width: 100%;
   padding: 4px 5px 4px 8px;
   border: 1px solid #c5cae9;
