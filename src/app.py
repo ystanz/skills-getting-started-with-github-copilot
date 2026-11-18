@@ -45,6 +45,12 @@ activities = {
         "max_participants": 15,
         "participants": []
     },
+    "Soccer Team": {
+        "description": "Develop soccer skills and compete in team matches",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 22,
+        "participants": []
+    },
     "Track and Field": {
         "description": "Train for running, jumping, and throwing events",
         "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
