@@ -98,14 +98,11 @@ section h3 {
 .participants-section li {
   display: flex;
   align-items: center;
-  width: fit-content;
+  width: 100%;
   max-width: 100%;
-  padding: 4px 5px 4px 8px;
-  border: 1px solid #c5cae9;
-  border-radius: 999px;
-  background-color: #e8eaf6;
-  color: #3949ab;
-  font-size: 13px;
+  margin-bottom: 4px;
+  color: #333;
+  font-size: 14px;
 }
 
 .participant-email {
